@@ -16,6 +16,13 @@ const Index = () => (
     <a href="https://amazon.com/dp/B077MZ2MPW">https://amazon.com/dp/B077MZ2MPW</a>
     <br/>
     <br/>
+    <a href="https://venmo.com">https://venmo.com</a>
+    <br/>
+    <a href="venmo://">venmo://</a>
+    <br/>
+    <a href="linkedin://company/Venmo">linkedin://company/Venmo</a>
+    <br/>
+    <br/>
     <a href="https://www.google.com">https://www.google.com</a>
     <br/>
     <br/>
@@ -35,11 +42,13 @@ const Index = () => (
     <a href="tel:1-408-555-1212">tel:1-408-555-1212</a>
     <br/>
     <br/>
-    <a href="https://venmo.com">https://venmo.com</a>
+    <a href="applestore://">applestore://</a>
     <br/>
-    <a href="venmo://">venmo://</a>
     <br/>
-    <a href="linkedin://company/Venmo">linkedin://company/Venmo</a>
+    <a href="macappstore://">macappstore://</a>
+    <br/>
+    <br/>
+    <a href="camera://">camera://</a>
     <br/>
     <br/>
     <a href="/about">/about</a>
